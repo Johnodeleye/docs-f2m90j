@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gy42d5.indocuansite.space/sitemap.xml
